@@ -12,6 +12,9 @@ My background includes building and analyzing financial systems using **SQL, Pyt
 - Risk analysis  
 - Responsive data automation pipelines
 - Portfolio Optimization
+- Machine Learning
+- IaC
+- DevOps
 
 I enjoy turning complex financial datasets into production ready, scalable applications.
 
@@ -27,4 +30,4 @@ I’ve worked across both **front end and back end development**, with hands on 
 I’m continuing to deepen my expertise in **DevOps and cloud engineering** to build more reliable, automated, and scalable financial infrastructure.
 
 📫 Open to collaboration  
-**buribe.job@gmail.com**
+**buribe.jobs@gmail.com**
