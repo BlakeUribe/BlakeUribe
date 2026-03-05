@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Blake 👋
 
-<!--
-**BlakeUribe/BlakeUribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Fintech | DevOps | Cloud | Data
 
-Here are some ideas to get you started:
+I build financial applications focused on portfolio optimization, screening, and scalable cloud systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python
+- SQL
+- R
+- AWS
+- React
+- DynamoDB
+
+## 📈 Current Focus
+Learning DevOps and improving cloud architecture skills.
+
+## 📫 Connect With Me
+Email: buribe.job@gmail.com
