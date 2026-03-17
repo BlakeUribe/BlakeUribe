@@ -20,7 +20,7 @@ I enjoy turning complex financial datasets into production ready, scalable appli
 
 ## 🧠 Featured Project
 ### 🔎 Uptick Analytics
-🌐 https://www.uptick-analytics.com/
+🌐 [UpTickFin.com](https://www.uptickfin.com/)
 
 A portfolio optimization and stock screening platform designed to help investors make data driven decisions.
 
